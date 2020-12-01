@@ -1,0 +1,6 @@
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_Repo\bin\Debug\DevTeam_Repo.dll
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_Repo\bin\Debug\DevTeam_Repo.pdb
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_Repo\obj\Debug\DevTeam_Repo.csprojAssemblyReference.cache
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_Repo\obj\Debug\DevTeam_Repo.csproj.CoreCompileInputs.cache
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_Repo\obj\Debug\DevTeam_Repo.dll
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_Repo\obj\Debug\DevTeam_Repo.pdb

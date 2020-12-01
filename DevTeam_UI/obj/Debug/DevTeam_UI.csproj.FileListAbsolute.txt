@@ -1,0 +1,10 @@
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_UI\bin\Debug\DevTeam_UI.exe.config
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_UI\bin\Debug\DevTeam_UI.exe
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_UI\bin\Debug\DevTeam_UI.pdb
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_UI\bin\Debug\DevTeam_Repo.dll
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_UI\bin\Debug\DevTeam_Repo.pdb
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_UI\obj\Debug\DevTeam_UI.csprojAssemblyReference.cache
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_UI\obj\Debug\DevTeam_UI.csproj.CoreCompileInputs.cache
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_UI\obj\Debug\DevTeam_UI.csproj.CopyComplete
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_UI\obj\Debug\DevTeam_UI.exe
+C:\Sean\EFA_LA\SDNovember2020\GoldBadge\KomodoDevTeamApp\DevTeam_UI\obj\Debug\DevTeam_UI.pdb
