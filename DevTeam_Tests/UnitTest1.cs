@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using DevTeam_Repo;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace DevTeam_Tests
@@ -9,6 +11,7 @@ namespace DevTeam_Tests
         [TestMethod]
         public void TestMethod1()
         {
+            List<Developer> devs = new List<Developer>();
         }
     }
 }

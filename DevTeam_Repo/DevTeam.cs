@@ -10,7 +10,8 @@ namespace DevTeam_Repo
     {
         public int TeamId { get; set; }
         public string TeamName { get; set; }
-        public List<Developer> Devs { get; set; }
+        //public List<Developer> Devs { get; set; }
+        public List<Developer> Devs { get; set; } = new List<Developer>();
 
         public DevTeam() { }
 

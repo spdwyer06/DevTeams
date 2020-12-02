@@ -272,7 +272,7 @@ namespace DevTeam_UI
         static void CreateDevTeam()
         {
             var newDevTeam = new DevTeam();
-            var emptyList = new List<Developer>();
+            //var emptyList = new List<Developer>();
 
             Console.Write("Enter A Team Id Number: ");
             newDevTeam.TeamId = int.Parse(Console.ReadLine());
@@ -280,7 +280,7 @@ namespace DevTeam_UI
             Console.Write("Enter A Team Name: ");
             newDevTeam.TeamName = Console.ReadLine();
 
-            newDevTeam.Devs = emptyList;
+            //newDevTeam.Devs = emptyList;
 
             _devTeamRepo.CreateDevTeam(newDevTeam);
         }
